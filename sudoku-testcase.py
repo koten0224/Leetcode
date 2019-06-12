@@ -137,15 +137,3 @@ t = round((time()-t)*1000,2)
 print('總共花費',t,'毫秒。')
 del sudoku
 input('Press Enter to Continue..')
-'''
-        [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        ''],
-'''
