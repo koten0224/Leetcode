@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-def runBoard(board,times=0): #遞迴檢測所用之函數
-    you_want_calculate_times = True #控制是否統計運算次數並回傳
+def runBoard(board,times=0,you_want_calculate_times = True): #遞迴檢測所用之函數
+     #you_want_calculate_times控制是否統計運算次數並回傳
 
     def numInclude(inp_row,inp_col,board): #輸入座標，目前版面
         boardrow = board[inp_row] #定義檢測數值所在之橫列
