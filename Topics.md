@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/151/1149-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-120-green.svg" alt="">
+    <img src="https://img.shields.io/badge/153/1153-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-122-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-26-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-5-red.svg" alt="">
 </p>
@@ -121,6 +121,7 @@
 - [Verifying an Alien Dictionary](./0953.verifying-an-alien-dictionary)
 - [N-Repeated Element in Size 2N Array](./0961.n-repeated-element-in-size-2n-array)
 - [Find Common Characters](./1002.find-common-characters)
+- [Occurrences After Bigram](./1078.occurrences-after-bigram)
 ## Heap
 - [Last Stone Weight](./1046.last-stone-weight)
 ## Linked List
@@ -154,6 +155,7 @@
 - [Complement of Base 10 Integer](./1009.complement-of-base-10-integer)
 - [Divisor Game](./1025.divisor-game)
 - [Valid Boomerang](./1037.valid-boomerang)
+- [Distribute Candies to People](./1103.distribute-candies-to-people)
 - [Path In Zigzag Labelled Binary Tree](./1104.path-in-zigzag-labelled-binary-tree)
 ## Minimax
 - [Nim Game](./0292.nim-game)
