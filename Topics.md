@@ -1,16 +1,18 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/153/1153-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/155/1159-Solved/Total-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-122-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-26-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-5-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-27-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-6-red.svg" alt="">
 </p>
 
 
 ## Array
 - [Two Sum](./0001.two-sum)
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
+- [Jump Game II](./0045.jump-game-ii)
+- [Jump Game](./0055.jump-game)
 - [Best Time to Buy and Sell Stock II](./0122.best-time-to-buy-and-sell-stock-ii)
 - [Majority Element](./0169.majority-element)
 - [Contains Duplicate](./0217.contains-duplicate)
@@ -90,6 +92,8 @@
 ## Geometry
 - [Surface Area of 3D Shapes](./0892.surface-area-of-3d-shapes)
 ## Greedy
+- [Jump Game II](./0045.jump-game-ii)
+- [Jump Game](./0055.jump-game)
 - [Best Time to Buy and Sell Stock II](./0122.best-time-to-buy-and-sell-stock-ii)
 - [Partition Labels](./0763.partition-labels)
 - [Score After Flipping Matrix](./0861.score-after-flipping-matrix)
