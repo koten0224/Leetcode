@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/158/1159-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/160/1164-Solved/Total-blue.svg" alt="">
     <img src="https://img.shields.io/badge/Easy-123-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-29-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-31-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-6-red.svg" alt="">
 </p>
 
@@ -44,6 +44,7 @@
 - [Generate Parentheses](./0022.generate-parentheses)
 - [Sudoku Solver](./0037.sudoku-solver)
 - [Permutations](./0046.permutations)
+- [Permutations II](./0047.permutations-ii)
 - [Permutation Sequence](./0060.permutation-sequence)
 - [Letter Case Permutation](./0784.letter-case-permutation)
 - [Unique Paths III](./0980.unique-paths-iii)
@@ -197,6 +198,7 @@
 - [Generate Parentheses](./0022.generate-parentheses)
 - [Valid Number](./0065.valid-number)
 - [Valid Palindrome](./0125.valid-palindrome)
+- [Reverse Words in a String](./0151.reverse-words-in-a-string)
 - [Reverse String](./0344.reverse-string)
 - [Validate IP Address](./0468.validate-ip-address)
 - [Detect Capital](./0520.detect-capital)
