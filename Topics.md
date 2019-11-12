@@ -1,16 +1,18 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/160/1164-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-123-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-31-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-6-red.svg" alt="">
+    <img src="https://img.shields.io/badge/170/1255-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-125-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-38-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-7-red.svg" alt="">
 </p>
 
 
 ## Array
 - [Two Sum](./0001.two-sum)
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
+- [Container With Most Water](./0011.container-with-most-water)
+- [Search Insert Position](./0035.search-insert-position)
 - [Jump Game II](./0045.jump-game-ii)
 - [Jump Game](./0055.jump-game)
 - [Unique Paths](./0062.unique-paths)
@@ -41,6 +43,7 @@
 - [Height Checker](./1051.height-checker)
 - [Relative Sort Array](./1122.relative-sort-array)
 ## Backtracking
+- [Regular Expression Matching](./0010.regular-expression-matching)
 - [Generate Parentheses](./0022.generate-parentheses)
 - [Sudoku Solver](./0037.sudoku-solver)
 - [Permutations](./0046.permutations)
@@ -51,6 +54,7 @@
 - [Letter Tile Possibilities](./1079.letter-tile-possibilities)
 ## Binary Search
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
+- [Search Insert Position](./0035.search-insert-position)
 - [Sqrt(x)](./0069.sqrtx)
 - [Intersection of Two Arrays](./0349.intersection-of-two-arrays)
 - [Peak Index in a Mountain Array](./0852.peak-index-in-a-mountain-array)
@@ -92,12 +96,17 @@
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
 - [Majority Element](./0169.majority-element)
 ## Dynamic Programming
+- [Longest Palindromic Substring](./0005.longest-palindromic-substring)
+- [Regular Expression Matching](./0010.regular-expression-matching)
 - [Unique Paths](./0062.unique-paths)
+- [Climbing Stairs](./0070.climbing-stairs)
 - [Best Time to Buy and Sell Stock](./0121.best-time-to-buy-and-sell-stock)
 - [Counting Bits](./0338.counting-bits)
 - [Divisor Game](./1025.divisor-game)
 ## Geometry
 - [Surface Area of 3D Shapes](./0892.surface-area-of-3d-shapes)
+## Graph
+- [Maximum Level Sum of a Binary Tree](./1161.maximum-level-sum-of-a-binary-tree)
 ## Greedy
 - [Jump Game II](./0045.jump-game-ii)
 - [Jump Game](./0055.jump-game)
@@ -148,6 +157,8 @@
 ## Math
 - [Add Two Numbers](./0002.add-two-numbers)
 - [Reverse Integer](./0007.reverse-integer)
+- [String to Integer (atoi)](./0008.string-to-integer-atoi)
+- [Palindrome Number](./0009.palindrome-number)
 - [Integer to Roman](./0012.integer-to-roman)
 - [Roman to Integer](./0013.roman-to-integer)
 - [Permutation Sequence](./0060.permutation-sequence)
@@ -193,8 +204,13 @@
 - [Remove All Adjacent Duplicates In String](./1047.remove-all-adjacent-duplicates-in-string)
 ## String
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
+- [Longest Palindromic Substring](./0005.longest-palindromic-substring)
+- [ZigZag Conversion](./0006.zigzag-conversion)
+- [String to Integer (atoi)](./0008.string-to-integer-atoi)
+- [Regular Expression Matching](./0010.regular-expression-matching)
 - [Integer to Roman](./0012.integer-to-roman)
 - [Roman to Integer](./0013.roman-to-integer)
+- [Longest Common Prefix](./0014.longest-common-prefix)
 - [Generate Parentheses](./0022.generate-parentheses)
 - [Valid Number](./0065.valid-number)
 - [Valid Palindrome](./0125.valid-palindrome)
@@ -214,7 +230,7 @@
 - [Groups of Special-Equivalent Strings](./0893.groups-of-special-equivalent-strings)
 - [Reverse Only Letters](./0917.reverse-only-letters)
 - [Unique Email Addresses](./0929.unique-email-addresses)
-- [Reorder Log Files](./0937.reorder-log-files)
+- [Reorder Data in Log Files](./0937.reorder-data-in-log-files)
 - [Defanging an IP Address](./1108.defanging-an-ip-address)
 ## Tree
 - [Same Tree](./0100.same-tree)
@@ -246,6 +262,7 @@
 - [Path In Zigzag Labelled Binary Tree](./1104.path-in-zigzag-labelled-binary-tree)
 ## Two Pointers
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
+- [Container With Most Water](./0011.container-with-most-water)
 - [Valid Palindrome](./0125.valid-palindrome)
 - [Linked List Cycle](./0141.linked-list-cycle)
 - [Palindrome Linked List](./0234.palindrome-linked-list)
