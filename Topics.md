@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/170/1255-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-125-green.svg" alt="">
+    <img src="https://img.shields.io/badge/180/1255-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-135-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-38-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-7-red.svg" alt="">
 </p>
@@ -27,6 +27,7 @@
 - [Array Partition I](./0561.array-partition-i)
 - [Reshape the Matrix](./0566.reshape-the-matrix)
 - [Non-decreasing Array](./0665.non-decreasing-array)
+- [Min Cost Climbing Stairs](./0746.min-cost-climbing-stairs)
 - [Toeplitz Matrix](./0766.toeplitz-matrix)
 - [Flipping an Image](./0832.flipping-an-image)
 - [Transpose Matrix](./0867.transpose-matrix)
@@ -42,6 +43,10 @@
 - [Partition Array Into Three Parts With Equal Sum](./1013.partition-array-into-three-parts-with-equal-sum)
 - [Height Checker](./1051.height-checker)
 - [Relative Sort Array](./1122.relative-sort-array)
+- [Find Words That Can Be Formed by Characters](./1160.find-words-that-can-be-formed-by-characters)
+- [Day of the Week](./1185.day-of-the-week)
+- [Minimum Absolute Difference](./1200.minimum-absolute-difference)
+- [Cells with Odd Values in a Matrix](./1252.cells-with-odd-values-in-a-matrix)
 ## Backtracking
 - [Regular Expression Matching](./0010.regular-expression-matching)
 - [Generate Parentheses](./0022.generate-parentheses)
@@ -58,6 +63,7 @@
 - [Sqrt(x)](./0069.sqrtx)
 - [Intersection of Two Arrays](./0349.intersection-of-two-arrays)
 - [Peak Index in a Mountain Array](./0852.peak-index-in-a-mountain-array)
+- [Find Positive Integer Solution for a Given Equation](./1237.find-positive-integer-solution-for-a-given-equation)
 ## Binary Search Tree
 - [Binary Search Tree to Greater Sum Tree](./1038.binary-search-tree-to-greater-sum-tree)
 ## Bit Manipulation
@@ -102,6 +108,7 @@
 - [Climbing Stairs](./0070.climbing-stairs)
 - [Best Time to Buy and Sell Stock](./0121.best-time-to-buy-and-sell-stock)
 - [Counting Bits](./0338.counting-bits)
+- [Min Cost Climbing Stairs](./0746.min-cost-climbing-stairs)
 - [Divisor Game](./1025.divisor-game)
 ## Geometry
 - [Surface Area of 3D Shapes](./0892.surface-area-of-3d-shapes)
@@ -117,6 +124,7 @@
 - [Delete Columns to Make Sorted](./0944.delete-columns-to-make-sorted)
 - [Two City Scheduling](./1029.two-city-scheduling)
 - [Last Stone Weight](./1046.last-stone-weight)
+- [Split a String in Balanced Strings](./1221.split-a-string-in-balanced-strings)
 ## Hash Table
 - [Two Sum](./0001.two-sum)
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
@@ -142,6 +150,9 @@
 - [N-Repeated Element in Size 2N Array](./0961.n-repeated-element-in-size-2n-array)
 - [Find Common Characters](./1002.find-common-characters)
 - [Occurrences After Bigram](./1078.occurrences-after-bigram)
+- [Find Words That Can Be Formed by Characters](./1160.find-words-that-can-be-formed-by-characters)
+- [Maximum Number of Balloons](./1189.maximum-number-of-balloons)
+- [Unique Number of Occurrences](./1207.unique-number-of-occurrences)
 ## Heap
 - [Last Stone Weight](./1046.last-stone-weight)
 ## Linked List
@@ -179,6 +190,7 @@
 - [Valid Boomerang](./1037.valid-boomerang)
 - [Distribute Candies to People](./1103.distribute-candies-to-people)
 - [Path In Zigzag Labelled Binary Tree](./1104.path-in-zigzag-labelled-binary-tree)
+- [Find Positive Integer Solution for a Given Equation](./1237.find-positive-integer-solution-for-a-given-equation)
 ## Minimax
 - [Nim Game](./0292.nim-game)
 ## Queue
@@ -232,11 +244,14 @@
 - [Unique Email Addresses](./0929.unique-email-addresses)
 - [Reorder Data in Log Files](./0937.reorder-data-in-log-files)
 - [Defanging an IP Address](./1108.defanging-an-ip-address)
+- [Maximum Number of Balloons](./1189.maximum-number-of-balloons)
+- [Split a String in Balanced Strings](./1221.split-a-string-in-balanced-strings)
 ## Tree
 - [Same Tree](./0100.same-tree)
 - [Maximum Depth of Binary Tree](./0104.maximum-depth-of-binary-tree)
 - [Binary Search Tree Iterator](./0173.binary-search-tree-iterator)
 - [Invert Binary Tree](./0226.invert-binary-tree)
+- [Sum of Left Leaves](./0404.sum-of-left-leaves)
 - [N-ary Tree Level Order Traversal](./0429.n-ary-tree-level-order-traversal)
 - [Maximum Depth of N-ary Tree](./0559.maximum-depth-of-n-ary-tree)
 - [N-ary Tree Preorder Traversal](./0589.n-ary-tree-preorder-traversal)
