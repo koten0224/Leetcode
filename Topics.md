@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/180/1255-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-135-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-38-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/184/1259-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-138-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-39-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-7-red.svg" alt="">
 </p>
 
@@ -12,6 +12,8 @@
 - [Two Sum](./0001.two-sum)
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
 - [Container With Most Water](./0011.container-with-most-water)
+- [Remove Duplicates from Sorted Array](./0026.remove-duplicates-from-sorted-array)
+- [Find First and Last Position of Element in Sorted Array](./0034.find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./0035.search-insert-position)
 - [Jump Game II](./0045.jump-game-ii)
 - [Jump Game](./0055.jump-game)
@@ -59,6 +61,7 @@
 - [Letter Tile Possibilities](./1079.letter-tile-possibilities)
 ## Binary Search
 - [Median of Two Sorted Arrays](./0004.median-of-two-sorted-arrays)
+- [Find First and Last Position of Element in Sorted Array](./0034.find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./0035.search-insert-position)
 - [Sqrt(x)](./0069.sqrtx)
 - [Intersection of Two Arrays](./0349.intersection-of-two-arrays)
@@ -107,6 +110,7 @@
 - [Unique Paths](./0062.unique-paths)
 - [Climbing Stairs](./0070.climbing-stairs)
 - [Best Time to Buy and Sell Stock](./0121.best-time-to-buy-and-sell-stock)
+- [House Robber](./0198.house-robber)
 - [Counting Bits](./0338.counting-bits)
 - [Min Cost Climbing Stairs](./0746.min-cost-climbing-stairs)
 - [Divisor Game](./1025.divisor-game)
@@ -208,6 +212,7 @@
 - [Matrix Cells in Distance Order](./1030.matrix-cells-in-distance-order)
 - [Relative Sort Array](./1122.relative-sort-array)
 ## Stack
+- [Valid Parentheses](./0020.valid-parentheses)
 - [Binary Search Tree Iterator](./0173.binary-search-tree-iterator)
 - [Next Greater Element I](./0496.next-greater-element-i)
 - [Baseball Game](./0682.baseball-game)
@@ -223,6 +228,7 @@
 - [Integer to Roman](./0012.integer-to-roman)
 - [Roman to Integer](./0013.roman-to-integer)
 - [Longest Common Prefix](./0014.longest-common-prefix)
+- [Valid Parentheses](./0020.valid-parentheses)
 - [Generate Parentheses](./0022.generate-parentheses)
 - [Valid Number](./0065.valid-number)
 - [Valid Palindrome](./0125.valid-palindrome)
@@ -278,6 +284,7 @@
 ## Two Pointers
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
 - [Container With Most Water](./0011.container-with-most-water)
+- [Remove Duplicates from Sorted Array](./0026.remove-duplicates-from-sorted-array)
 - [Valid Palindrome](./0125.valid-palindrome)
 - [Linked List Cycle](./0141.linked-list-cycle)
 - [Palindrome Linked List](./0234.palindrome-linked-list)
