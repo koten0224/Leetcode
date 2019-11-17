@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/184/1259-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-138-green.svg" alt="">
+    <img src="https://img.shields.io/badge/200/1263-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-154-green.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-39-orange.svg" alt="">
     <img src="https://img.shields.io/badge/Hard-7-red.svg" alt="">
 </p>
@@ -20,6 +20,7 @@
 - [Unique Paths](./0062.unique-paths)
 - [Best Time to Buy and Sell Stock](./0121.best-time-to-buy-and-sell-stock)
 - [Best Time to Buy and Sell Stock II](./0122.best-time-to-buy-and-sell-stock-ii)
+- [Two Sum II - Input array is sorted](./0167.two-sum-ii-input-array-is-sorted)
 - [Majority Element](./0169.majority-element)
 - [Contains Duplicate](./0217.contains-duplicate)
 - [Move Zeroes](./0283.move-zeroes)
@@ -29,6 +30,7 @@
 - [Array Partition I](./0561.array-partition-i)
 - [Reshape the Matrix](./0566.reshape-the-matrix)
 - [Non-decreasing Array](./0665.non-decreasing-array)
+- [Degree of an Array](./0697.degree-of-an-array)
 - [Min Cost Climbing Stairs](./0746.min-cost-climbing-stairs)
 - [Toeplitz Matrix](./0766.toeplitz-matrix)
 - [Flipping an Image](./0832.flipping-an-image)
@@ -44,11 +46,16 @@
 - [Find Common Characters](./1002.find-common-characters)
 - [Partition Array Into Three Parts With Equal Sum](./1013.partition-array-into-three-parts-with-equal-sum)
 - [Height Checker](./1051.height-checker)
+- [Duplicate Zeros](./1089.duplicate-zeros)
 - [Relative Sort Array](./1122.relative-sort-array)
 - [Find Words That Can Be Formed by Characters](./1160.find-words-that-can-be-formed-by-characters)
+- [Compare Strings by Frequency of the Smallest Character](./1170.compare-strings-by-frequency-of-the-smallest-character)
+- [Distance Between Bus Stops](./1184.distance-between-bus-stops)
 - [Day of the Week](./1185.day-of-the-week)
 - [Minimum Absolute Difference](./1200.minimum-absolute-difference)
+- [Play with Chips](./1217.play-with-chips)
 - [Cells with Odd Values in a Matrix](./1252.cells-with-odd-values-in-a-matrix)
+- [Shift 2D Grid](./1260.shift-2d-grid)
 ## Backtracking
 - [Regular Expression Matching](./0010.regular-expression-matching)
 - [Generate Parentheses](./0022.generate-parentheses)
@@ -64,6 +71,7 @@
 - [Find First and Last Position of Element in Sorted Array](./0034.find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./0035.search-insert-position)
 - [Sqrt(x)](./0069.sqrtx)
+- [Two Sum II - Input array is sorted](./0167.two-sum-ii-input-array-is-sorted)
 - [Intersection of Two Arrays](./0349.intersection-of-two-arrays)
 - [Peak Index in a Mountain Array](./0852.peak-index-in-a-mountain-array)
 - [Find Positive Integer Solution for a Given Equation](./1237.find-positive-integer-solution-for-a-given-equation)
@@ -89,8 +97,10 @@
 ## Depth-first Search
 - [Same Tree](./0100.same-tree)
 - [Maximum Depth of Binary Tree](./0104.maximum-depth-of-binary-tree)
+- [Convert Sorted Array to Binary Search Tree](./0108.convert-sorted-array-to-binary-search-tree)
 - [Maximum Depth of N-ary Tree](./0559.maximum-depth-of-n-ary-tree)
 - [Employee Importance](./0690.employee-importance)
+- [Flood Fill](./0733.flood-fill)
 - [Leaf-Similar Trees](./0872.leaf-similar-trees)
 - [Increasing Order Search Tree](./0897.increasing-order-search-tree)
 - [Distribute Coins in Binary Tree](./0979.distribute-coins-in-binary-tree)
@@ -128,6 +138,7 @@
 - [Delete Columns to Make Sorted](./0944.delete-columns-to-make-sorted)
 - [Two City Scheduling](./1029.two-city-scheduling)
 - [Last Stone Weight](./1046.last-stone-weight)
+- [Play with Chips](./1217.play-with-chips)
 - [Split a String in Balanced Strings](./1221.split-a-string-in-balanced-strings)
 ## Hash Table
 - [Two Sum](./0001.two-sum)
@@ -179,6 +190,7 @@
 - [Permutation Sequence](./0060.permutation-sequence)
 - [Valid Number](./0065.valid-number)
 - [Sqrt(x)](./0069.sqrtx)
+- [Excel Sheet Column Number](./0171.excel-sheet-column-number)
 - [Add Digits](./0258.add-digits)
 - [Encode and Decode TinyURL](./0535.encode-and-decode-tinyurl)
 - [Self Dividing Numbers](./0728.self-dividing-numbers)
@@ -194,6 +206,7 @@
 - [Valid Boomerang](./1037.valid-boomerang)
 - [Distribute Candies to People](./1103.distribute-candies-to-people)
 - [Path In Zigzag Labelled Binary Tree](./1104.path-in-zigzag-labelled-binary-tree)
+- [Play with Chips](./1217.play-with-chips)
 - [Find Positive Integer Solution for a Given Equation](./1237.find-positive-integer-solution-for-a-given-equation)
 ## Minimax
 - [Nim Game](./0292.nim-game)
@@ -202,6 +215,7 @@
 ## Recursion
 - [All Possible Full Binary Trees](./0894.all-possible-full-binary-trees)
 - [Range Sum of BST](./0938.range-sum-of-bst)
+- [N-th Tribonacci Number](./1137.n-th-tribonacci-number)
 ## Sliding Window
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
 ## Sort
@@ -230,6 +244,7 @@
 - [Longest Common Prefix](./0014.longest-common-prefix)
 - [Valid Parentheses](./0020.valid-parentheses)
 - [Generate Parentheses](./0022.generate-parentheses)
+- [Implement strStr()](./0028.implement-strstr)
 - [Valid Number](./0065.valid-number)
 - [Valid Palindrome](./0125.valid-palindrome)
 - [Reverse Words in a String](./0151.reverse-words-in-a-string)
@@ -238,6 +253,7 @@
 - [Detect Capital](./0520.detect-capital)
 - [Longest Uncommon Subsequence I ](./0521.longest-uncommon-subsequence-i)
 - [Reverse Words in a String III](./0557.reverse-words-in-a-string-iii)
+- [Construct String from Binary Tree](./0606.construct-string-from-binary-tree)
 - [Robot Return to Origin](./0657.robot-return-to-origin)
 - [Count Binary Substrings](./0696.count-binary-substrings)
 - [To Lower Case](./0709.to-lower-case)
@@ -250,18 +266,23 @@
 - [Unique Email Addresses](./0929.unique-email-addresses)
 - [Reorder Data in Log Files](./0937.reorder-data-in-log-files)
 - [Defanging an IP Address](./1108.defanging-an-ip-address)
+- [Compare Strings by Frequency of the Smallest Character](./1170.compare-strings-by-frequency-of-the-smallest-character)
 - [Maximum Number of Balloons](./1189.maximum-number-of-balloons)
 - [Split a String in Balanced Strings](./1221.split-a-string-in-balanced-strings)
 ## Tree
 - [Same Tree](./0100.same-tree)
 - [Maximum Depth of Binary Tree](./0104.maximum-depth-of-binary-tree)
+- [Convert Sorted Array to Binary Search Tree](./0108.convert-sorted-array-to-binary-search-tree)
 - [Binary Search Tree Iterator](./0173.binary-search-tree-iterator)
 - [Invert Binary Tree](./0226.invert-binary-tree)
 - [Sum of Left Leaves](./0404.sum-of-left-leaves)
 - [N-ary Tree Level Order Traversal](./0429.n-ary-tree-level-order-traversal)
+- [Minimum Absolute Difference in BST](./0530.minimum-absolute-difference-in-bst)
+- [Convert BST to Greater Tree](./0538.convert-bst-to-greater-tree)
 - [Maximum Depth of N-ary Tree](./0559.maximum-depth-of-n-ary-tree)
 - [N-ary Tree Preorder Traversal](./0589.n-ary-tree-preorder-traversal)
 - [N-ary Tree Postorder Traversal](./0590.n-ary-tree-postorder-traversal)
+- [Construct String from Binary Tree](./0606.construct-string-from-binary-tree)
 - [Merge Two Binary Trees](./0617.merge-two-binary-trees)
 - [Average of Levels in Binary Tree](./0637.average-of-levels-in-binary-tree)
 - [Two Sum IV - Input is a BST](./0653.two-sum-iv-input-is-a-bst)
@@ -285,8 +306,10 @@
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
 - [Container With Most Water](./0011.container-with-most-water)
 - [Remove Duplicates from Sorted Array](./0026.remove-duplicates-from-sorted-array)
+- [Implement strStr()](./0028.implement-strstr)
 - [Valid Palindrome](./0125.valid-palindrome)
 - [Linked List Cycle](./0141.linked-list-cycle)
+- [Two Sum II - Input array is sorted](./0167.two-sum-ii-input-array-is-sorted)
 - [Palindrome Linked List](./0234.palindrome-linked-list)
 - [Move Zeroes](./0283.move-zeroes)
 - [Reverse String](./0344.reverse-string)
